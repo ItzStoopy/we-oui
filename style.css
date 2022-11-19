@@ -1,0 +1,17 @@
+h1 {
+font-size:25px !important
+}
+.btn-success:hover
+{
+background-color:#E87AAD;
+
+}
+canvas {
+animation-name: yourmom;
+animation-duration:5s;
+animation-iteration-count: infinite;
+}
+@keyframes yourmom{
+from{box-shadow: 1px 1px 100px#00fffb}
+to{box-shadow: 1px 1px 100px#9500ff}
+}
